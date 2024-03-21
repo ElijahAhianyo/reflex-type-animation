@@ -1,9 +1,9 @@
-# reflex-type-animation
+# type-animation
 
-A Reflex custom component reflex-type-animation.
+A Reflex custom component type-animation.
 
 ## Installation
 
 ```bash
-pip install reflex-reflex-type-animation
+pip install reflex-type-animation
 ```

@@ -1,8 +1,8 @@
-"""Reflex custom component ReflexTypeAnimation."""
-
+"""Reflex custom component TypeAnimation."""
 import reflex as rx
 
-class ReflexTypeAnimation(rx.Component):
+
+class TypeAnimation(rx.Component):
     """ReflexTypeAnimation component."""
     tag = "TypeAnimation"
     library = "react-type-animation"
@@ -17,4 +17,4 @@ class ReflexTypeAnimation(rx.Component):
     omit_deletion_animation: rx.Var[bool] = False
 
 
-reflex_type_animation = ReflexTypeAnimation.create
+type_animation = TypeAnimation.create

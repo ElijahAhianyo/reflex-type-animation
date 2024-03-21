@@ -4,7 +4,7 @@ from rxconfig import config
 
 import reflex as rx
 
-from reflex_reflex_type_animation import reflex_type_animation
+from reflex_type_animation import type_animation
 
 filename = f"{config.app_name}/{config.app_name}.py"
 
@@ -18,14 +18,14 @@ class State(rx.State):
 def index() -> rx.Component:
     return rx.center(
         rx.vstack(
-            reflex_type_animation(
+            type_animation(
                 sequence=[
                     "Lewis Hamilton is the Greatest Driver of all time.",
                     1000
                 ],
             ),
 
-            reflex_type_animation(
+            type_animation(
                 sequence=[
                     "Michael Schumacher",
                     1000,
