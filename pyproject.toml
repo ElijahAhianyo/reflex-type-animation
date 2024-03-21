@@ -28,8 +28,7 @@ classifiers = [
 ]
 
 [project.urls]
-[project.urls]
-Homepage = "https://github.com/ElijahAhianyo/reflex-typing-animation"
+Homepage = "https://github.com/ElijahAhianyo/reflex-type-animation"
 
 [project.optional-dependencies]
 dev = ["build", "twine"]
