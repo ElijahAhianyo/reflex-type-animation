@@ -12,7 +12,7 @@ description = "Reflex custom component reflex-type-animation"
 readme = "README.md"
 license = { text = "Apache-2.0" }
 requires-python = ">=3.8"
-authors = [{ name = "Your Name", email = "YOUREMAIL@domain.com" }]
+authors = [{ name = "Elijah Ahianyo", email = "elijahahianyo@gmail.com" }]
 keywords = [
     "reflex",
     "reflex-custom-components"]
