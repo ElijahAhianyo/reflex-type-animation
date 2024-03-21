@@ -25,7 +25,11 @@ def index() -> rx.Component:
     )
 ```
 
-[Screen Recording 2024-03-21 at 3.11.59 PM.mov](..%2F..%2F..%2F..%2F..%2FDesktop%2FScreen%20Recording%202024-03-21%20at%203.11.59%20PM.mov)
+
+
+https://github.com/ElijahAhianyo/reflex-type-animation/assets/19895635/1732465f-d2c2-43f2-ac88-9d18479bd815
+
+
 
 ### Props
 
