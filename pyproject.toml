@@ -6,16 +6,18 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "reflex-reflex-type-animation"
+name = "reflex-type-animation"
 version = "0.0.1"
-description = "Reflex custom component reflex-type-animation"
+description = "A type animation library"
 readme = "README.md"
 license = { text = "Apache-2.0" }
 requires-python = ">=3.8"
 authors = [{ name = "Elijah Ahianyo", email = "elijahahianyo@gmail.com" }]
 keywords = [
     "reflex",
-    "reflex-custom-components"]
+    "reflex-custom-components",
+    "typing animation"
+]
 
 dependencies = [
     "reflex>=0.4.2"
@@ -26,7 +28,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com"
+Homepage = "https://github.com/ElijahAhianyo/reflex-typing-animation"
 
 [project.optional-dependencies]
 dev = ["build", "twine"]
