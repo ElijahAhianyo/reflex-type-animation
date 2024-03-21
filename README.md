@@ -1,2 +1,9 @@
 # reflex-type-animation
-A reflex library wrapping the react-type-animation library
+
+A Reflex custom component reflex-type-animation.
+
+## Installation
+
+```bash
+pip install reflex-reflex-type-animation
+```
